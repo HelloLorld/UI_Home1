@@ -1,0 +1,64 @@
+#header {
+    text-align: center;
+}
+
+#container {
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+#myPhoto {
+    max-width: 400px;
+    max-height: 760px;
+}
+
+.main {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.main > div {
+    margin-left: auto;
+    margin-right: auto;
+}
+.main > #lang {
+    font-size: large;
+}
+
+#pic > p {
+    text-align: center;
+    font-size: 25px;
+}
+
+#about {
+    font-size: 18px;
+}
+
+#about > p > .bold {
+    font-size: 30px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.title {
+    font-size: 35px;
+}
+
+table {
+    font-size: 18px;
+}
+
+table > caption {
+    font-size: 35px;
+}
+
+td {
+    padding-top: 20px;
+}
